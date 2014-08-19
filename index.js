@@ -1,3 +1,5 @@
+exports.version= '0.0.2';
+
 exports.initPathData= function(pathData){
 	pathData= (pathData)? pathData: {};
 	pathData.count= (pathData.count)? pathData.count : 0;
